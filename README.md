@@ -1,4 +1,27 @@
 ## seonho Kim
 
-<h2>Certification</h1>
-<div>SQL Developer (2024.06 ~ 2024.08)</div>
+<body>
+  <h3>
+    <b>
+      <p>
+        Certification 
+      </p>
+    </b>
+  </h3>
+<h6>
+  <p>
+    SQL Developer 
+    <i>
+      (2024.06 ~ 2024.08)
+    </i>
+  </p>
+</h6> 
+  <h6>
+    <p>
+        AWS Certified Solutions Architect - Associate
+      <i>
+          (2024.09 ~ )
+      </i>
+    </p>
+  </h6>
+</body>
