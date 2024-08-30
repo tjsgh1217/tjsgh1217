@@ -10,7 +10,8 @@
   </h3>
 <h6>
   <p>
-    SQL Developer 
+    SQL Developer
+    <br>
     <i>
       (2024.06 ~ 2024.08)
     </i>
@@ -19,6 +20,7 @@
   <h6>
     <p>
         AWS Certified Solutions Architect - Associate
+      <br>
       <i>
           (2024.09 ~ )
       </i>
