@@ -22,7 +22,7 @@
   <h3>
     <b>
       <p>
-    Training
+    Education
       </p>
     </b>
   </h3>
