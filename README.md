@@ -3,8 +3,8 @@
 
 ### Certification
 
-*  SQL Developer 
-*  AWS Certified Solutions Architect - Associate
+*  📑 SQL Developer
+*  🌐 AWS Certified Solutions Architect - Associate
 
 ### Education
 
