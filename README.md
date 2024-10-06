@@ -3,9 +3,9 @@
 
 ### Certification
 
-*  ![image](https://github.com/user-attachments/assets/d313ef94-6211-4237-8496-ae4fc2bb13de)
+*  ![SQL](https://github.com/user-attachments/assets/6f76b344-514c-457d-8f81-159b2d00d0db)
   SQL Developer
-*  ![image](https://github.com/user-attachments/assets/9ae92ad1-53e4-40e1-8d4c-ea649e8b7c08)
+*  ![AWS](https://github.com/user-attachments/assets/9ae92ad1-53e4-40e1-8d4c-ea649e8b7c08)
   AWS Certified Solutions Architect - Associate
 
 ### Education
