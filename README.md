@@ -1,6 +1,5 @@
 # seonho Kim
 
-<br>
 
 ### Certification
 
